@@ -1,0 +1,193 @@
+11-18 16:36:34.246  9137  9156 I TestRunner: started: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+11-18 16:36:34.249  9137  9156 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+11-18 16:36:34.252   798   893 D SplashScreenView: Build android.window.SplashScreenView{9bab95 V.E...... ......ID 0,0-0,0}
+11-18 16:36:34.252   798   893 D SplashScreenView: Icon: view: null drawable: null size: 0
+11-18 16:36:34.252   798   893 D SplashScreenView: Branding: view: android.view.View{acda4aa G.ED..... ......I. 0,0-0,0 #10204d9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+11-18 16:36:34.258   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.264  9137  9137 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1 in: PRE_ON_CREATE
+11-18 16:36:34.264  9137  9137 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1
+11-18 16:36:34.267  9137  9137 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1 in: CREATED
+11-18 16:36:34.268  9137  9137 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1
+11-18 16:36:34.268  9137  9137 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1 in: STARTED
+11-18 16:36:34.269  9137  9137 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1
+11-18 16:36:34.272  9137  9137 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1 in: RESUMED
+11-18 16:36:34.272  9137  9137 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1
+11-18 16:36:34.274   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.275  9137  9137 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1 in: PAUSED
+11-18 16:36:34.276  9137  9137 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1
+11-18 16:36:34.277   402   486 W TransactionTracing: Could not find layer id -1
+11-18 16:36:34.280  9137  9137 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@2df3a95 in: PRE_ON_CREATE
+11-18 16:36:34.281  9137  9137 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+11-18 16:36:34.284  9137  9137 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@2df3a95 in: CREATED
+11-18 16:36:34.284   798   893 D SplashScreenView: Build android.window.SplashScreenView{646b84d V.E...... ......ID 0,0-0,0}
+11-18 16:36:34.284   798   893 D SplashScreenView: Icon: view: null drawable: null size: 0
+11-18 16:36:34.284   798   893 D SplashScreenView: Branding: view: android.view.View{d21f02 G.ED..... ......I. 0,0-0,0 #10204d9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+11-18 16:36:34.285  9137  9137 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@2df3a95
+11-18 16:36:34.286  9137  9137 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@2df3a95 in: STARTED
+11-18 16:36:34.286  9137  9137 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@2df3a95
+11-18 16:36:34.287  9137  9137 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@2df3a95 in: RESUMED
+11-18 16:36:34.287  9137  9137 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@2df3a95
+11-18 16:36:34.290   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.290   352   352 D goldfish-address-space: claimShared: Ask to claim region [0x1f1b78000 0x1f24a0000]
+11-18 16:36:34.298  9137  9137 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1 in: STOPPED
+11-18 16:36:34.298  9137  9137 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@208d7a1
+11-18 16:36:34.300   352   352 D goldfish-address-space: claimShared: Ask to claim region [0x1f24a0000 0x1f2dc8000]
+11-18 16:36:34.300   352   352 D goldfish-address-space: claimShared: Ask to claim region [0x1f2dc8000 0x1f36f0000]
+11-18 16:36:34.301   798   894 W Parcel  : Expecting binder but got null!
+11-18 16:36:34.308   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.313   352   352 D goldfish-address-space: claimShared: Ask to claim region [0x1f5b88000 0x1f64b0000]
+11-18 16:36:34.319   352   352 D goldfish-address-space: claimShared: Ask to claim region [0x1f64b0000 0x1f6dd8000]
+11-18 16:36:34.320  9137  9158 W Parcel  : Expecting binder but got null!
+11-18 16:36:34.325   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.325   402   486 W TransactionTracing: Could not find layer handle 0xb4000077556ea750
+11-18 16:36:34.325   402   486 W TransactionTracing: Could not find layer handle 0xb4000077556e3370
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.325  1122  1874 W FrameTracker: Missing SF jank callback for vsyncId: 832579
+11-18 16:36:34.328  1122  1898 V PerfettoTrigger: Not triggering com.android.telemetry.interaction-jank-monitor-9 - not enough time since last trigger
+11-18 16:36:34.333   537   559 W ziparchive: Unable to open '/data/app/~~0k2oT0L5F8b78nCJlF6-Ng==/com.example.lunchtray-DVPViyhBGLkPVK-HK75cuQ==/base.dm': No such file or directory
+11-18 16:36:34.333   537   559 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +82ms
+11-18 16:36:34.335  9137  9137 D AutofillManager: Fill dialog is enabled:false, hints=[]
+11-18 16:36:34.342   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.359   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.375   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.381   352   352 D goldfish-address-space: claimShared: Ask to claim region [0x1f6dd8000 0x1f7700000]
+11-18 16:36:34.386  1538  1538 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+11-18 16:36:34.387  1538  1538 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+11-18 16:36:34.387  1538  1538 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null}, false)
+11-18 16:36:34.388  1538  1538 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+11-18 16:36:34.392   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.392   402   486 W TransactionTracing: Could not find layer handle 0xb4000077556ed330
+11-18 16:36:34.409   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.415  9137  9137 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+11-18 16:36:34.416   537   643 D InputDispatcher: No new touched window at (206, 109) in display 0
+11-18 16:36:34.417  1122  1122 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=206.0, y[0]=109.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=33655592, downTime=33655592, deviceId=-1, source=0x1002, displayId=0, eventId=-967649009 }
+11-18 16:36:34.425   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.426   402   486 W TransactionTracing: Could not find layer id -1
+11-18 16:36:34.426   402   486 W TransactionTracing: Could not find layer id -1
+11-18 16:36:34.426   402   486 W TransactionTracing: Could not find layer id -1
+11-18 16:36:34.426   402   486 W TransactionTracing: Could not find layer id -1
+11-18 16:36:34.441   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.442   402   486 W TransactionTracing: Could not find layer handle 0xb4000077556eb2f0
+11-18 16:36:34.458   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.460  1122  1122 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=206.0, y[0]=109.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=33655632, downTime=33655592, deviceId=-1, source=0x1002, displayId=0, eventId=-749763772 }
+11-18 16:36:34.475   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.491   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.508   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.525   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.542   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.558   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.575   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.591   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.599   994  1277 D BtGatt.ScanManager: uid 10103 isForeground true scanMode -1
+11-18 16:36:34.600   994  1277 D BtGatt.ScanManager: uid 10103 isForeground true scanMode -1
+11-18 16:36:34.608   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.609   402   486 W TransactionTracing: Could not find layer handle 0xb4000077556e5d70
+11-18 16:36:34.610   402   486 W TransactionTracing: Could not find layer handle 0xb4000077556ec610
+11-18 16:36:34.614   402   486 W TransactionTracing: Could not find layer handle 0xb4000077556ec610
+11-18 16:36:34.614   402   486 W TransactionTracing: Could not find layer handle 0xb4000077556e5d70
+11-18 16:36:34.618  2044  2044 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=66}
+11-18 16:36:34.620  2044  2044 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=66, right=0, bottom=66}
+11-18 16:36:34.625   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.626   402   486 W TransactionTracing: Could not find layer handle 0xb4000077556f00f0
+11-18 16:36:34.628   537  2368 W InputManager-JNI: Input channel object 'ed44434 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+11-18 16:36:34.630  1122  1122 D b/223498680: Workspace onOverlayScrollChanged DragLayer ALPHA_INDEX_OVERLAY=1.0
+11-18 16:36:34.638  2044  8157 I PBSessionCacheImpl: Deleted sessionId[8991274887880758] from persistence.
+11-18 16:36:34.641   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.644   402   486 W TransactionTracing: Could not find layer handle 0xb4000077556eb830
+11-18 16:36:34.645   402   486 W TransactionTracing: Could not find layer handle 0xb4000077556e86b0
+11-18 16:36:34.647  2044  2170 W SearchServiceCore: Abort, client detached.
+11-18 16:36:34.657   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.675   353 28951 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+11-18 16:36:34.679   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.679   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.679   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.679   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.679   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.679   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.679   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.679   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.680   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.680   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.680   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.680   798   855 W FrameTracker: Missed SF frame:16
+11-18 16:36:34.680   798   855 W FrameTracker: Missing SF jank callback for vsyncId: 833246
+11-18 16:36:34.680   798   855 V PerfettoTrigger: Not triggering com.android.telemetry.interaction-jank-monitor-39 - not enough time since last trigger
+11-18 16:36:34.681  9137  9137 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+11-18 16:36:34.681  9137  9156 E TestRunner: failed: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+11-18 16:36:34.681  9137  9156 E TestRunner: ----- begin exception -----
+11-18 16:36:34.682  9137  9156 E TestRunner: androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"' doesn't match the selected view.
+11-18 16:36:34.682  9137  9156 E TestRunner: Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"
+11-18 16:36:34.682  9137  9156 E TestRunner:      Got: view.getText() was "Subtotal: $0.00"
+11-18 16:36:34.682  9137  9156 E TestRunner: View Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@952ce75, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=1146.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}
+11-18 16:36:34.682  9137  9156 E TestRunner:
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at java.lang.Thread.getStackTrace(Thread.java:1841)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at com.example.lunchtray.OrderFunctionalityTests.radio_buttons_update_entree_menu_subtotal(OrderFunctionalityTests.kt:52)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2322)
+11-18 16:36:34.682  9137  9156 E TestRunner: Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"' doesn't match the selected view.
+11-18 16:36:34.682  9137  9156 E TestRunner: Expected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"
+11-18 16:36:34.682  9137  9156 E TestRunner:      Got: view.getText() was "Subtotal: $0.00"
+11-18 16:36:34.682  9137  9156 E TestRunner: View Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@952ce75, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=1146.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}
+11-18 16:36:34.682  9137  9156 E TestRunner:
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at android.os.Handler.handleCallback(Handler.java:942)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at android.os.Looper.loopOnce(Looper.java:201)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at android.os.Looper.loop(Looper.java:288)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at android.app.ActivityThread.main(ActivityThread.java:7898)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+11-18 16:36:34.682  9137  9156 E TestRunner: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)
+11-18 16:36:34.682  9137  9156 E TestRunner: ----- end exception -----
+11-18 16:36:34.682  9137  9156 I TestRunner: finished: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)

@@ -1,0 +1,546 @@
+# 2022-11-18T08:36:41.804Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 10
+}
+test_status: FAILED
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "radio_buttons_update_side_menu_subtotal"
+    start_time {
+      seconds: 1668760577
+      nanos: 305000000
+    }
+    end_time {
+      seconds: 1668760579
+      nanos: 9000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/logcat-com.example.lunchtray.OrderFunctionalityTests-radio_buttons_update_side_menu_subtotal.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "order_reset_after_cancel_from_accompaniment_menu"
+    start_time {
+      seconds: 1668760579
+      nanos: 503000000
+    }
+    end_time {
+      seconds: 1668760582
+      nanos: 420000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "subtotal_updates_in_full_order_flow"
+    start_time {
+      seconds: 1668760582
+      nanos: 869000000
+    }
+    end_time {
+      seconds: 1668760585
+      nanos: 315000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/logcat-com.example.lunchtray.OrderFunctionalityTests-subtotal_updates_in_full_order_flow.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "order_snackbar"
+    start_time {
+      seconds: 1668760585
+      nanos: 794000000
+    }
+    end_time {
+      seconds: 1668760588
+      nanos: 491000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/logcat-com.example.lunchtray.OrderFunctionalityTests-order_snackbar.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "order_reset_after_cancel_from_entree_menu"
+    start_time {
+      seconds: 1668760588
+      nanos: 978000000
+    }
+    end_time {
+      seconds: 1668760590
+      nanos: 296000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "subtotal_tax_total_in_checkout"
+    start_time {
+      seconds: 1668760590
+      nanos: 831000000
+    }
+    end_time {
+      seconds: 1668760593
+      nanos: 231000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/logcat-com.example.lunchtray.OrderFunctionalityTests-subtotal_tax_total_in_checkout.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "radio_buttons_update_accompaniment_menu_subtotal"
+    start_time {
+      seconds: 1668760593
+      nanos: 712000000
+    }
+    end_time {
+      seconds: 1668760594
+      nanos: 87000000
+    }
+  }
+  test_status: FAILED
+  error {
+    error_message: "androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $0.50\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $0.50\"\nGot: view.getText() was \"Subtotal: $0.00\"\nView Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@6114e44, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=813.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}\n\nat dalvik.system.VMStack.getThreadStackTrace(Native Method)\nat java.lang.Thread.getStackTrace(Thread.java:1841)\nat androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)\nat androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)\nat androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)\nat androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)\nat com.example.lunchtray.OrderFunctionalityTests.radio_buttons_update_accompaniment_menu_subtotal(OrderFunctionalityTests.kt:116)\n... 27 trimmed\nCaused by: junit.framework.AssertionFailedError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $0.50\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $0.50\"\nGot: view.getText() was \"Subtotal: $0.00\"\nView Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@6114e44, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=813.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}\n\nat androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)\nat androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)\nat androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)\nat java.util.concurrent.FutureTask.run(FutureTask.java:264)\nat android.os.Handler.handleCallback(Handler.java:942)\nat android.os.Handler.dispatchMessage(Handler.java:99)\nat android.os.Looper.loopOnce(Looper.java:201)\nat android.os.Looper.loop(Looper.java:288)\nat android.app.ActivityThread.main(ActivityThread.java:7898)\nat java.lang.reflect.Method.invoke(Native Method)\nat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)\nat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)"
+    error_type: "junit.framework.AssertionFailedError"
+    stack_trace: "androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $0.50\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $0.50\"\nGot: view.getText() was \"Subtotal: $0.00\"\nView Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@6114e44, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=813.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}\n\nat dalvik.system.VMStack.getThreadStackTrace(Native Method)\nat java.lang.Thread.getStackTrace(Thread.java:1841)\nat androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)\nat androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)\nat androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)\nat androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)\nat com.example.lunchtray.OrderFunctionalityTests.radio_buttons_update_accompaniment_menu_subtotal(OrderFunctionalityTests.kt:116)\n... 27 trimmed\nCaused by: junit.framework.AssertionFailedError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $0.50\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $0.50\"\nGot: view.getText() was \"Subtotal: $0.00\"\nView Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@6114e44, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=813.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}\n\nat androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)\nat androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)\nat androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)\nat java.util.concurrent.FutureTask.run(FutureTask.java:264)\nat android.os.Handler.handleCallback(Handler.java:942)\nat android.os.Handler.dispatchMessage(Handler.java:99)\nat android.os.Looper.loopOnce(Looper.java:201)\nat android.os.Looper.loop(Looper.java:288)\nat android.app.ActivityThread.main(ActivityThread.java:7898)\nat java.lang.reflect.Method.invoke(Native Method)\nat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)\nat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)"
+  }
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/logcat-com.example.lunchtray.OrderFunctionalityTests-radio_buttons_update_accompaniment_menu_subtotal.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "order_reset_after_cancel_from_side_menu"
+    start_time {
+      seconds: 1668760594
+      nanos: 592000000
+    }
+    end_time {
+      seconds: 1668760596
+      nanos: 652000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "radio_buttons_update_entree_menu_subtotal"
+    start_time {
+      seconds: 1668760597
+      nanos: 140000000
+    }
+    end_time {
+      seconds: 1668760597
+      nanos: 583000000
+    }
+  }
+  test_status: FAILED
+  error {
+    error_message: "androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $7.00\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $7.00\"\nGot: view.getText() was \"Subtotal: $0.00\"\nView Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@952ce75, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=1146.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}\n\nat dalvik.system.VMStack.getThreadStackTrace(Native Method)\nat java.lang.Thread.getStackTrace(Thread.java:1841)\nat androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)\nat androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)\nat androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)\nat androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)\nat com.example.lunchtray.OrderFunctionalityTests.radio_buttons_update_entree_menu_subtotal(OrderFunctionalityTests.kt:52)\n... 27 trimmed\nCaused by: junit.framework.AssertionFailedError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $7.00\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $7.00\"\nGot: view.getText() was \"Subtotal: $0.00\"\nView Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@952ce75, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=1146.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}\n\nat androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)\nat androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)\nat androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)\nat java.util.concurrent.FutureTask.run(FutureTask.java:264)\nat android.os.Handler.handleCallback(Handler.java:942)\nat android.os.Handler.dispatchMessage(Handler.java:99)\nat android.os.Looper.loopOnce(Looper.java:201)\nat android.os.Looper.loop(Looper.java:288)\nat android.app.ActivityThread.main(ActivityThread.java:7898)\nat java.lang.reflect.Method.invoke(Native Method)\nat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)\nat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)"
+    error_type: "junit.framework.AssertionFailedError"
+    stack_trace: "androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $7.00\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $7.00\"\nGot: view.getText() was \"Subtotal: $0.00\"\nView Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@952ce75, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=1146.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}\n\nat dalvik.system.VMStack.getThreadStackTrace(Native Method)\nat java.lang.Thread.getStackTrace(Thread.java:1841)\nat androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)\nat androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)\nat androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)\nat androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)\nat com.example.lunchtray.OrderFunctionalityTests.radio_buttons_update_entree_menu_subtotal(OrderFunctionalityTests.kt:52)\n... 27 trimmed\nCaused by: junit.framework.AssertionFailedError: \'an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $7.00\"\' doesn\'t match the selected view.\nExpected: an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing \"Subtotal: $7.00\"\nGot: view.getText() was \"Subtotal: $0.00\"\nView Details: TextView{id=2131231217, res-name=subtotal, visibility=VISIBLE, width=342, height=67, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@952ce75, tag=null, root-is-layout-requested=false, has-input-connection=false, x=694.0, y=1146.0, text=Subtotal: $0.00, input-type=0, ime-target=false, has-links=false}\n\nat androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)\nat androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)\nat androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)\nat androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)\nat java.util.concurrent.FutureTask.run(FutureTask.java:264)\nat android.os.Handler.handleCallback(Handler.java:942)\nat android.os.Handler.dispatchMessage(Handler.java:99)\nat android.os.Looper.loopOnce(Looper.java:201)\nat android.os.Looper.loop(Looper.java:288)\nat android.app.ActivityThread.main(ActivityThread.java:7898)\nat java.lang.reflect.Method.invoke(Native Method)\nat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)\nat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)"
+  }
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/logcat-com.example.lunchtray.OrderFunctionalityTests-radio_buttons_update_entree_menu_subtotal.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "order_reset_after_cancel_from_checkout"
+    start_time {
+      seconds: 1668760598
+      nanos: 36000000
+    }
+    end_time {
+      seconds: 1668760601
+      nanos: 31000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_checkout.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/mrzhang/AndroidStudioProjects/GoogleLab/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/Pixel_3a_API_33_arm64-v8a(AVD) - 13/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
